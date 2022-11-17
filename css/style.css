@@ -59,6 +59,7 @@ header ul li a{
     border-bottom: 2px solid black;
     background: linear-gradient(gray,rgb(250,250,250));
     width:100%;
+
     margin: auto;
     gap: 10px;
     flex-wrap: wrap;
@@ -149,7 +150,7 @@ header ul li a{
 }
 
 #Historia section img{
-    width: 400px;
+    width: 350px;
     border-radius: 7px;
 }
 
@@ -236,7 +237,7 @@ header ul li a{
 }
 
 #Metodo section img{
-    width: 350px
+    width: 350px;
     border-radius: 7px;
 }
 
