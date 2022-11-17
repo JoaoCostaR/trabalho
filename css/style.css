@@ -149,9 +149,7 @@ header ul li a{
 }
 
 #Historia section img{
-/*     width: 400px; */
-    max-width: 400px;
-    min-width: 200px;
+    width: 400px;
     border-radius: 7px;
 }
 
@@ -238,9 +236,7 @@ header ul li a{
 }
 
 #Metodo section img{
-/*     width: 400px; */
-    max-width: 400px;
-    min-width: 200px;
+    width: 350px
     border-radius: 7px;
 }
 
